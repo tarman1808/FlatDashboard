@@ -1,3 +1,26 @@
 .sidebar{
     -fx-background-color: rgb(58,68,88);
 }
+
+.siderbar-user-btn{
+    -fx-background-color: transparent;
+    -fx-background-radius: 0px;
+    -fx-text-fill: #b8b1b1;
+}
+
+.siderbar-btn{
+    -fx-background-color: transparent;
+    -fx-background-radius: 0px;
+    -fx-text-fill: #b8b1b1;
+}
+
+.siderbar-btn:hover{
+    -fx-background-color: transparent;
+    -fx-background-radius: 0px;
+    -fx-text-fill: #b8b1b1;
+    -fx-border-color: rgb(22,168,250);
+    -fx-border-width: 0px 0px 0px 3px;
+}
+.siderbar-btn-icon{
+     -fx-fill: #b8b1b1;
+}
